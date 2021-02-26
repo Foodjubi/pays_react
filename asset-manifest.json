@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/pays_react/static/css/main.f749ff98.chunk.css",
-    "main.js": "/pays_react/static/js/main.b57d538d.chunk.js",
-    "main.js.map": "/pays_react/static/js/main.b57d538d.chunk.js.map",
+    "main.js": "/pays_react/static/js/main.c580569d.chunk.js",
+    "main.js.map": "/pays_react/static/js/main.c580569d.chunk.js.map",
     "runtime-main.js": "/pays_react/static/js/runtime-main.b31498a4.js",
     "runtime-main.js.map": "/pays_react/static/js/runtime-main.b31498a4.js.map",
     "static/js/2.d150e1a1.chunk.js": "/pays_react/static/js/2.d150e1a1.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.b31498a4.js",
     "static/js/2.d150e1a1.chunk.js",
     "static/css/main.f749ff98.chunk.css",
-    "static/js/main.b57d538d.chunk.js"
+    "static/js/main.c580569d.chunk.js"
   ]
 }
